@@ -4,7 +4,7 @@ class Bob {
             isStatic: false,
             restitution: 1.2,
             friction: 0.5,
-            density: 0.3,
+            density: 0.5,
             }
 
         this.jumping = false;
